@@ -16,6 +16,11 @@ https://user-images.githubusercontent.com/82247833/200099154-5b53b93e-f82f-4ad6-
 * Methods on constructor functions
 * Object.assign 
 * Import / Export 
+* .reduce()method
+* The ternary operator
+* Arrow functions
+* The setTimeout() method
+
 
 
 - [Scrimba](https://scrimba.com/allcourses)

@@ -5,6 +5,8 @@
 https://user-images.githubusercontent.com/82247833/200099154-5b53b93e-f82f-4ad6-b12a-4f8cc1f2f771.mov
 
 
+### Description
+
 * Object detructuring 
 * The .map() method 
 * The .join() method
